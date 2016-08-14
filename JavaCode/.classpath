@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CH01/src"/>
+	<classpathentry kind="src" path="CH02/Ex2_3_Rectangle/src"/>
+	<classpathentry kind="src" path="CH02/Ex2_4_Circle(netbeansws)/Ex2_4_Circle/src"/>
+	<classpathentry kind="src" path="CH02/Ex2_5_Stream/src"/>
+	<classpathentry kind="src" path="CH02/Ex2_6_Circlearea/src"/>
+	<classpathentry kind="src" path="CH02/src"/>
+	<classpathentry kind="src" path="CH03/src"/>
+	<classpathentry kind="src" path="CH04/src"/>
+	<classpathentry kind="src" path="CH06/src"/>
+	<classpathentry kind="src" path="CH07/src"/>
+	<classpathentry kind="src" path="CH08/src"/>
+	<classpathentry kind="src" path="CH09/src"/>
+	<classpathentry kind="src" path="CH10/src"/>
+	<classpathentry kind="src" path="CH11/src"/>
+	<classpathentry kind="src" path="CH12/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="CH12/bin"/>
+</classpath>
